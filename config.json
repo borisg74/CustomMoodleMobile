@@ -1,6 +1,6 @@
 {
-    "app_id": "com.moodle.moodlemobile",
-    "appname": "Moodle Mobile",
+    "app_id": "ru.edu.rsu.e-learn2",
+    "appname": "ЭИОС РГУ",
     "desktopappname": "Moodle Desktop",
     "versioncode": 3810,
     "versionname": "3.8.1-dev",
